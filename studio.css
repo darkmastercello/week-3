@@ -1,6 +1,4 @@
-body{
-background-color: khaki;
-}
+
 
 
 .logo{
@@ -23,4 +21,14 @@ background-color: khaki;
 
 #ex{
     font-size:xx-small;
+}
+
+.about{
+    /* word-wrap:break-word; */
+    font-size: xx-small;
+    font-stretch: expanded;
+}
+h3{
+    text-indent: 420px;
+    
 }
