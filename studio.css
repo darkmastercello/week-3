@@ -51,17 +51,17 @@ h5{
 
 #showdesign{
     word-wrap: break-word;
-    /* display: none; */
+    display: none;
 }
 
 #showdev{
     word-wrap: break-word;
-    /* display: none; */
+    display: none;
 }
 
 #showprod{
     word-wrap: break-word;
-    /* display: none; */
+    display: none;
 }
 
 h6{
@@ -75,3 +75,11 @@ h6{
 form {
     opacity: 0.3;
   }
+
+footer{
+    text-indent: 420px;
+}
+
+#f2{
+    text-indent: 450px; 
+}
