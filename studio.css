@@ -44,3 +44,22 @@ h3{
 h4{
     text-indent: 420px;
 }
+
+h5{
+    text-indent: 420px;
+}
+
+#showdesign{
+    word-wrap: break-word;
+    display: none;
+}
+
+#showdev{
+    word-wrap: break-word;
+    display: none;
+}
+
+#showprod{
+    word-wrap: break-word;
+    display: none;
+}
