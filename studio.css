@@ -36,4 +36,11 @@ h3{
 
 #services{
     background-image: url("images/bg3.jpg");
+    color: white;
+    word-wrap: break-word;
+    font-size: x-small;
+}
+
+h4{
+    text-indent: 420px;
 }
