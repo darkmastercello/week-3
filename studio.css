@@ -51,15 +51,27 @@ h5{
 
 #showdesign{
     word-wrap: break-word;
-    display: none;
+    /* display: none; */
 }
 
 #showdev{
     word-wrap: break-word;
-    display: none;
+    /* display: none; */
 }
 
 #showprod{
     word-wrap: break-word;
-    display: none;
+    /* display: none; */
 }
+
+h6{
+    text-indent: 420px;
+}
+
+.contact{
+    background-image: url("images/bg1.jpg");
+}
+
+form {
+    opacity: 0.3;
+  }
